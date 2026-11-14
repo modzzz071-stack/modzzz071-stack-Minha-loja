@@ -1,0 +1,11 @@
+{
+  "name": "vault-store",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "VAULT STORE — loja de produtos digitais com Stripe + Netlify",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "stripe": "^17.5.0"
+  }
+}
